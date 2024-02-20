@@ -1,0 +1,15 @@
+{
+    "TotalBalance": "Balanç Total",
+    "ExpensesLastWeek": "Despeses de la setmana passada",
+    "TodayExpenses": "Despeses d'avui",
+    "FromYesterday": "Respecte a ahir",
+    "days": {
+      "Monday": "Dilluns",
+      "Tuesday": "Dimarts",
+      "Wednesday": "Dimecres",
+      "Thursday": "Dijous",
+      "Friday": "Divendres",
+      "Saturday": "Dissabte",
+      "Sunday": "Diumenge"
+    }
+  }

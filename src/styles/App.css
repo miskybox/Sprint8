@@ -1,0 +1,77 @@
+/* App.css */
+#root {
+  max-width: auto;
+  margin:  0 auto;
+  padding:  2rem;
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Alinear verticalmente */
+  }
+  
+.card {
+  background-color: #fff;
+  border-radius:  10px;
+  box-shadow:  0  0  10px rgba(0,  0,  0,  0.1);
+  padding:  20px;
+  max-width:  700px;
+  align-content: center;
+
+}
+
+.arrow {
+  text-align: right;
+}
+
+#balance {
+  text-align: left;  
+}
+
+#weeklybalance{
+  display:inline-block;
+  flex-direction: center;
+  max-width:  700px;  
+  background-color:#E0833B;  
+}
+
+.new-card {
+  background-color: #fff;
+  border-radius:   10px;
+  box-shadow:   0   0   10px rgba(0,   0,   0,   0.1);
+  padding:   20px;
+  margin-bottom:   1rem;  
+}
+
+.new-card .flex {
+  justify-content: space-between;
+}
+
+.new-card {
+  background-color: #fff;
+  border-radius:   10px;
+  box-shadow:   0   0   10px rgba(0,   0,   0,   0.1);
+  padding:   20px;
+  margin-bottom:   1rem;  
+}
+
+.languages {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
