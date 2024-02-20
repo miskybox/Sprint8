@@ -15,7 +15,7 @@ const WeeklyBalance: React.FC = () => {
     <div className="mx-auto max-w-1280 my-5 pt-20">
       <Languages />
 
-      <Card className="mx-96 pb-20 sm:flex-col max-width:700px" id="weeklybalance">
+      <Card className="mx-96 pb-20 sm:flex-col" id="weeklybalance">
         <Card.Body>
           <div className="d-flex justify-content-between align-items-left">
             <div>
